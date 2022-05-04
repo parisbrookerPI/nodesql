@@ -1,0 +1,25 @@
+{
+  "name": "nodesql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parisbrookerPI/nodesql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parisbrookerPI/nodesql/issues"
+  },
+  "homepage": "https://github.com/parisbrookerPI/nodesql#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mssql": "^8.1.0",
+    "tedious": "^14.4.0"
+  }
+}
